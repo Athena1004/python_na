@@ -1,0 +1,60 @@
+DEBUG:root:this is a debug log
+INFO:root:this is a info log
+WARNING:root:this is a warning log
+ERROR:root:this is a error log
+CRITICAL:root:this is a critical log
+DEBUG:root:this is a debug log
+INFO:root:this is a info log
+WARNING:root:this is a warning log
+ERROR:root:this is a error log
+CRITICAL:root:this is a critical log
+DEBUG:root:this is a debug log
+INFO:root:this is a info log
+WARNING:root:this is a warning log
+ERROR:root:this is a error log
+CRITICAL:root:this is a critical log
+DEBUG:root:this is a debug log
+INFO:root:this is a info log
+WARNING:root:this is a warning log
+ERROR:root:this is a error log
+CRITICAL:root:this is a critical log
+2018-12-05 10:58:57,596======DEBUG++++++(message)s
+2018-12-05 10:58:57,596======INFO++++++(message)s
+2018-12-05 10:58:57,596======WARNING++++++(message)s
+2018-12-05 10:58:57,596======ERROR++++++(message)s
+2018-12-05 10:58:57,596======CRITICAL++++++(message)s
+2018-12-05 10:58:57,596======DEBUG++++++(message)s
+2018-12-05 10:58:57,596======INFO++++++(message)s
+2018-12-05 10:58:57,596======WARNING++++++(message)s
+2018-12-05 10:58:57,596======ERROR++++++(message)s
+2018-12-05 10:58:57,596======CRITICAL++++++(message)s
+2018-12-05 10:59:36,181======DEBUG++++++this is a debug log
+2018-12-05 10:59:36,181======INFO++++++this is a info log
+2018-12-05 10:59:36,181======WARNING++++++this is a warning log
+2018-12-05 10:59:36,181======ERROR++++++this is a error log
+2018-12-05 10:59:36,181======CRITICAL++++++this is a critical log
+2018-12-05 10:59:36,181======DEBUG++++++this is a debug log
+2018-12-05 10:59:36,182======INFO++++++this is a info log
+2018-12-05 10:59:36,182======WARNING++++++this is a warning log
+2018-12-05 10:59:36,182======ERROR++++++this is a error log
+2018-12-05 10:59:36,182======CRITICAL++++++this is a critical log
+2018-12-05 11:00:14,223======DEBUG++++++this is a debug log
+2018-12-05 11:00:14,224======INFO++++++this is a info log
+2018-12-05 11:00:14,224======WARNING++++++this is a warning log
+2018-12-05 11:00:14,225======ERROR++++++this is a error log
+2018-12-05 11:00:14,225======CRITICAL++++++this is a critical log
+2018-12-05 11:00:14,225======DEBUG++++++this is a debug log
+2018-12-05 11:00:14,226======INFO++++++this is a info log
+2018-12-05 11:00:14,226======WARNING++++++this is a warning log
+2018-12-05 11:00:14,226======ERROR++++++this is a error log
+2018-12-05 11:00:14,226======CRITICAL++++++this is a critical log
+2018-12-05 14:35:24,631======DEBUG++++++this is a debug log
+2018-12-05 14:35:24,631======INFO++++++this is a info log
+2018-12-05 14:35:24,631======WARNING++++++this is a warning log
+2018-12-05 14:35:24,631======ERROR++++++this is a error log
+2018-12-05 14:35:24,632======CRITICAL++++++this is a critical log
+2018-12-05 14:35:24,632======DEBUG++++++this is a debug log
+2018-12-05 14:35:24,632======INFO++++++this is a info log
+2018-12-05 14:35:24,632======WARNING++++++this is a warning log
+2018-12-05 14:35:24,632======ERROR++++++this is a error log
+2018-12-05 14:35:24,632======CRITICAL++++++this is a critical log
