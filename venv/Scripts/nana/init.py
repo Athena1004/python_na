@@ -1,7 +1,6 @@
 class Animal():
     def __init__(self):
         print("Animal~~~~~~~")
-
 class Paxing(Animal):
     def __init__(self):
         print("paxing animal")
